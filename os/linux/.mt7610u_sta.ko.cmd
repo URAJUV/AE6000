@@ -1,0 +1,1 @@
+cmd_/home/uraj/KALI/FALCON/AE6000/uvgit/AE6000/os/linux/mt7610u_sta.ko := ld -r -m elf_x86_64 -T /usr/src/linux-headers-3.13.0-52-generic/scripts/module-common.lds --build-id  -o /home/uraj/KALI/FALCON/AE6000/uvgit/AE6000/os/linux/mt7610u_sta.ko /home/uraj/KALI/FALCON/AE6000/uvgit/AE6000/os/linux/mt7610u_sta.o /home/uraj/KALI/FALCON/AE6000/uvgit/AE6000/os/linux/mt7610u_sta.mod.o
